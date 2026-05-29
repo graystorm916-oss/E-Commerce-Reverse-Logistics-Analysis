@@ -4,7 +4,7 @@ Developed an end-to-end analysis for  Reverse Logistics and E-Commerce Operation
 This project analyzes the reverse logistics data to identify the the "Highest Loss-Generating Regions". By migrating rawdata from 'Excel' to 'MySQL' and visualizing insights in 'Power BI'. A revenue leakage of ₹11.91M was identified from 103.04K returned orders out of 791K total orders for 1(one) 'Financial Year'.
 
 #Report Preview
-<img width="1103" height="859" alt="Screenshot 2026-05-29 200333" src="https://github.com/user-attachments/assets/a80ea8f8-360a-4606-99cf-3646e21ad871" />
+<img width="1107" height="859" alt="Screenshot 2026-05-29 204036" src="https://github.com/user-attachments/assets/1d4aff48-f06f-4cdd-a370-b5a253d14fe8" />
 
 #Tech Stack
 - Database: MySQL (Data Cleansing, Transformaion, and Querying)
