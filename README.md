@@ -7,6 +7,7 @@ This project analyzes the reverse logistics data to identify the the "Highest Lo
 <img width="1103" height="859" alt="Screenshot 2026-05-29 200333" src="https://github.com/user-attachments/assets/a80ea8f8-360a-4606-99cf-3646e21ad871" />
 
 #Tech Stack
+
 -EDA: Excel (Identifying data types, Data preprocessing)
 - Database: MySQL (Data Cleansing, Transformaion, and Querying)
 - Visualization: Power BI
