@@ -5,8 +5,7 @@ This project analyzes the reverse logistics data to identify the "Highest Loss-G
 
 #REPORT PREVIEW
 
-<img width="1099" height="855" alt="Screenshot 2026-05-30 183245" src="https://github.com/user-attachments/assets/35e3c837-e499-499f-8f06-880aabc8a1e5" />
-
+<img width="1103" height="859" alt="Screenshot 2026-05-30 195623" src="https://github.com/user-attachments/assets/972b0bb0-35d4-46bf-a943-84ce94a3e930" />
 
 
 #Tech Stack
