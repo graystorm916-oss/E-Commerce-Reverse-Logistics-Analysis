@@ -14,9 +14,8 @@ This project analyzes the reverse logistics data to identify the "Highest Loss-G
 - Visualization: Power BI
 
 #Key Business Insights
--Revenue Impact: A total of ₹11.91M in refund amounts incurred.
+-Returns are concentrated and not evenly distributed: Across multiple states Tir-3 cities shows significantly higher return rates.
 -Primary Driver: Electronic products have been identified as the primary driver of revenue leakage.
--Geographical Loss Driver: Tier-3 cities emerged as our primary geographical loss driver across multiple states.
 -Regional Loss Driver: Maharashtra emerged as the primary territorial loss driver, accounting for our largest chunk of ₹11.91M in refund amounts.
 
 'Created by Adraj, B.B.A. Class of 2028, ICFAI University'
