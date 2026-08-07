@@ -18,4 +18,8 @@ This project analyzes the reverse logistics data to identify the "Highest Loss-G
 -Primary Driver: Electronic products have been identified as the primary driver of revenue leakage.
 -Regional Loss Driver: Maharashtra emerged as the primary territorial loss driver, accounting for our largest chunk of ₹11.91M in refund amounts.
 
+#Metrics and insights:
+- Return rate: 13% returns (103.04K/791K).
+- Delivery drivers: On time deliveries still generate high returns, signaling issues with product quality or customer expectations rather than shipping delays.
+
 'Created by Adraj, B.B.A. Class of 2028, ICFAI University'
